@@ -5,7 +5,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{bhavinnor1}/count.svg)
 
-- My Projects:-
+- **My Projects:-**
 
 - Text Utility App
 - https://textutilsss-pro.netlify.app/
