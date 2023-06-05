@@ -7,6 +7,10 @@
 
 - **My Projects:-**
 
+- News APi React App
+- https://newsmo.netlify.app/
+
+
 - Text Utility App
 - https://textutilsss-pro.netlify.app/
 
