@@ -7,6 +7,9 @@
 
 - **My Projects:-**
 
+- Anime Search in GraphQL
+- https://anilist-graphql-html.netlify.app/
+
 - Game website with realtime API Polling
 - https://game-r2e2.onrender.com/
 
