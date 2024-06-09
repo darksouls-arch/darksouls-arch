@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @bhavinnor1
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning flask
 - 🎦 https://youtube.com/@codegeassprogramming
 
 ![Visitor Count](https://profile-counter.glitch.me/{bhavinnor1}/count.svg)
