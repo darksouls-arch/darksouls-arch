@@ -12,7 +12,7 @@
 
 - **My Projects:-**
 
-- Everything Changeable in Artist Landing Page with Dashboard
+- Artist Landing Page, Everything Painting, Text with Dashboard
 - https://art-ts.onrender.com/
 
 - Anime Search in GraphQL
