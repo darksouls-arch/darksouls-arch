@@ -41,7 +41,7 @@
 - https://promise-fetch.netlify.app/
 
 - Convert Bootstrap Website into Plain HTML, CSS and JavaScript, Image slider in plain javascript and domain name integration
-- https://selecao.tech/
+- https://selecao-in.netlify.app/
 
 - BlackJack Game in Tkinter Python GUI Check Releases for setup.exe
 - https://github.com/bhavinnor1/Blackjack-in-Tkinter/releases/tag/v1.0
