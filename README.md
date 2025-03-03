@@ -13,9 +13,21 @@
 - **My Projects:-**
 
 - Artist Landing Page, Everything Painting, Text with Dashboard
-  
+
 <img src="https://i.ibb.co/T05Wg55/Screenshot-2024-06-15-210823.png" alt="Homepage" style="width: 50%;"/><img src="https://i.ibb.co/XCRrWHG/Screenshot-2024-06-15-211105.png" alt="Dashboard" style="width: 50%;"/>
 - https://art-ts.onrender.com/
+
+
+- Data Storify (Landing Page)
+<img src="https://i.ibb.co/ZsxqPdq/Screenshot-2025-02-14-133351.png" alt="Homepage" style="width: 50%;"/>
+- https://data-storify.onrender.com
+
+
+- Data Storify (Analysis Page)
+
+<img src="https://i.ibb.co/Xkbyh0tz/Screenshot-2025-01-28-230349.png" alt="Homepage" style="width: 50%;"/><img src="https://i.ibb.co/chdBkbTg/Screenshot-2025-03-03-110552.png" alt="Homepage" style="width: 50%;"/>
+- https://data-storify-frontend.onrender.com
+
 
 - Anime Search in GraphQL
 <img src="https://i.ibb.co/VmrsWMR/Screenshot-2024-06-15-214537.png" alt="Homepage" style="width: 50%;"/>
