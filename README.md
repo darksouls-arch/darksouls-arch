@@ -1,7 +1,7 @@
 - Hi, I’m @darksouls-arch
 - 🎦 https://youtube.com/@codegeassprogramming
 
-![Visitor Count](https://profile-counter.glitch.me/{bhavinnor1}/count.svg)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavinnor) 
